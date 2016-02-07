@@ -1,0 +1,54 @@
+.home-text {
+  padding-top: 10%;
+}
+.about-text {
+  padding-top: 10%;
+}
+.portfolio-text {
+  padding-top: 10%;
+  text-align: center;
+}
+.contact-text {
+  padding-top: 10%;
+}
+
+
+.home {
+  background: url('https://c1.staticflickr.com/9/8077/8375697481_d52441f949.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 900px;
+}
+.about {
+  width: 100%;
+  background: url('https://wallpaperscraft.com/image/dark_spot_background_texture_50611_602x339.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 900px;
+}
+.portfolio {
+  background: #FFFFF7;
+  background-size: cover;
+  height: 900px;
+  padding: 50px;
+}
+.portfolio-caption {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+}
+
+.contact {
+  width: 100%;
+  background: url('http://www.bhumiharmahasangh.com/images/white.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 900px;  
+}
+
+h1 {
+  font weight: 500;
+}
+p {
+  font-style: oblique;
+  font-weight: normal;
+  color: white;
+}
